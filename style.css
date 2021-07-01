@@ -1,0 +1,17 @@
+#mainMenu .nav-link {
+  color: black;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#mainMenu .nav-link:hover {
+  color: white;
+  background-color: black;
+  border-radius: 5px;
+}
+
+#mainMenu .nav-link.active {
+  color: white;
+  background-color: black;
+  border-radius: 5px;
+}
