@@ -6,12 +6,15 @@
 
 #mainMenu .nav-link:hover {
   color: white;
-  background-color: black;
-  border-radius: 5px;
+  background-color: rgb(39, 39, 39);
 }
 
 #mainMenu .nav-link.active {
   color: white;
-  background-color: black;
-  border-radius: 5px;
+  background-color: rgb(39, 39, 39);
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  background-color: rgba(0, 0, 0, 0.548);
 }
