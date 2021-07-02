@@ -18,3 +18,8 @@
 .carousel-control-next {
   background-color: rgba(0, 0, 0, 0.548);
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
