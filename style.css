@@ -37,3 +37,13 @@ img {
 #contact {
   background: url(img/pexels-darina-belonogova-8386597.jpg)
 }
+
+#footer ul a {
+  color: rgba(39,39,39);
+  text-decoration: none;
+}
+
+#footer ul a:hover {
+  color: white;
+  background-color: rgba(39, 39, 39, 0.397);
+}
